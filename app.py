@@ -73,7 +73,7 @@ st.markdown("""
 #set the title
 st.title("DIAGNOS AI")
 
-st.image("cover.jpg", use_column_width=True)
+st.image("cover.jpg", use_container_width=True)
 
 
 #set the description
